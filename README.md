@@ -45,5 +45,5 @@ If you want to clone this setup for your own project or contribute, setting up t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/itsshivaes/coshix.git
+   git clone https://github.com/metarxm/coshix.git
    cd coshix
