@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: itsshivaes/coshix
+  repo: metarxm/coshix
   branch: main
 
 media_folder: "public/images"
